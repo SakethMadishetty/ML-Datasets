@@ -1,4 +1,4 @@
-Day_of_the_Month,Air_Temperature,Length_of_Icicle
+Day,Temperature,IcicleLength
 11,40,0
 12,39,0
 13,30,1
